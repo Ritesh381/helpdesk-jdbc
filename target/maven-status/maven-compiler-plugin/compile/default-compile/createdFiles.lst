@@ -1,0 +1,11 @@
+com/helpdesk/service/HelpDeskService$TicketDetails.class
+com/helpdesk/dao/AgentDAO.class
+com/helpdesk/model/Customer.class
+com/helpdesk/db/DatabaseConnection.class
+com/helpdesk/model/TicketConversation.class
+com/helpdesk/dao/CustomerDAO.class
+com/helpdesk/model/Agent.class
+com/helpdesk/dao/TicketDAO.class
+com/helpdesk/HelpDeskApplication.class
+com/helpdesk/model/Ticket.class
+com/helpdesk/service/HelpDeskService.class

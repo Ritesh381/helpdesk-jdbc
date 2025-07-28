@@ -1,0 +1,10 @@
+/Users/riteshprajapati/Desktop/HelpDeskProject/helpdesk-jdbc-platform/src/main/java/com/helpdesk/db/DatabaseConnection.java
+/Users/riteshprajapati/Desktop/HelpDeskProject/helpdesk-jdbc-platform/src/main/java/com/helpdesk/model/Agent.java
+/Users/riteshprajapati/Desktop/HelpDeskProject/helpdesk-jdbc-platform/src/main/java/com/helpdesk/service/HelpDeskService.java
+/Users/riteshprajapati/Desktop/HelpDeskProject/helpdesk-jdbc-platform/src/main/java/com/helpdesk/dao/TicketDAO.java
+/Users/riteshprajapati/Desktop/HelpDeskProject/helpdesk-jdbc-platform/src/main/java/com/helpdesk/model/Customer.java
+/Users/riteshprajapati/Desktop/HelpDeskProject/helpdesk-jdbc-platform/src/main/java/com/helpdesk/model/Ticket.java
+/Users/riteshprajapati/Desktop/HelpDeskProject/helpdesk-jdbc-platform/src/main/java/com/helpdesk/dao/AgentDAO.java
+/Users/riteshprajapati/Desktop/HelpDeskProject/helpdesk-jdbc-platform/src/main/java/com/helpdesk/HelpDeskApplication.java
+/Users/riteshprajapati/Desktop/HelpDeskProject/helpdesk-jdbc-platform/src/main/java/com/helpdesk/model/TicketConversation.java
+/Users/riteshprajapati/Desktop/HelpDeskProject/helpdesk-jdbc-platform/src/main/java/com/helpdesk/dao/CustomerDAO.java
