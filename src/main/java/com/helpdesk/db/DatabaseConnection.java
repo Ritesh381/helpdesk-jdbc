@@ -9,8 +9,8 @@ import java.sql.SQLException;
  */
 public class DatabaseConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/helpdesk_platform";
-    private static final String USERNAME = "root"; // Change as per your MySQL setup
-    private static final String PASSWORD = "Turtlegta5"; // Change as per your MySQL setup
+    private static final String USERNAME = "root";
+    private static final String PASSWORD = "root";
     
     private static Connection connection = null;
     
